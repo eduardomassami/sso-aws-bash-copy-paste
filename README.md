@@ -40,7 +40,7 @@ $ sudo ln -s /${full path to the sso file}/sso.sh /usr/bin/sso
 ## Usage
 Copy the content of **Option 2: Add a profile to your AWS credentials file** from your aws sso:
 
-![Captura de tela de 2022-01-16 01-33-22](https://user-images.githubusercontent.com/11368461/149647423-1e27356f-c4e1-4273-8ebe-203dc7478e14.png)
+![Captura de tela de 2022-01-16 01-50-34](https://user-images.githubusercontent.com/11368461/149647725-c575bf0a-9bfa-47ef-bff1-82d85382d60a.png)
 
 Open your terminal and type sso:
 ```
