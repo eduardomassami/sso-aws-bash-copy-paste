@@ -13,6 +13,7 @@ This project is a simple bash script to help save a aws credentials file.
 Project is created with:
 * Bash script
 * xclip
+* SED
 * vim/vi
 
 ## Setting the enviroment
@@ -21,9 +22,15 @@ Install xclip:
 $ sudo apt-get update
 $ sudo apt-get install xclip
 ```
+
 Install vim/vi
 ```
 $ sudo apt-get install vim
+```
+
+Install SED
+```
+$ sudo apt-get install sed
 ```
 
 Set permissions to the .sh file
